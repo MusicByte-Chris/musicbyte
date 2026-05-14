@@ -33,6 +33,7 @@ A beautiful, dark-themed Flutter app packed with essential tools for musicians, 
 - Built with Material 3
 
 ---
+## MIT Licensed
 
 ## 🚀 Quick Start
 
@@ -51,3 +52,5 @@ flutter pub get
 
 # Run on your device/emulator
 flutter run
+
+
